@@ -1,6 +1,6 @@
 import pickle
 from hashlib import sha256
-from test_cases import test_suite_0
+from test_cases import test_suite_0, test_suite_1, test_suite_2
 import sys, platform
 
 ### TEST RESULT: (ID, DESCRIPTION, SHA-256 HASH, PYTHON_VERSION, OS_INFO)
@@ -26,7 +26,9 @@ def main():
     ### Perform tests
     test_results = []
     test_results.extend(test_suite_0.pickle(pickler))
-    
+    test_results.extend(test_suite_1.pickle(pickler))
+    test_results.extend(test_suite_2.pickle(pickler))
+
     for test in test_results:
         print(test)
     
