@@ -1,6 +1,8 @@
 import pickle
 from hashlib import sha256
 from test_cases import test_suite_0, test_suite_1, test_suite_2
+from tests import test_classes
+import unittest
 import sys, platform
 
 ### TEST RESULT: (ID, DESCRIPTION, SHA-256 HASH, PYTHON_VERSION, OS_INFO)
@@ -19,6 +21,17 @@ def env_info():
     print(f"OS Version     : {platform.version()}")
     print(f"File Encoding  : {sys.getfilesystemencoding()}")
     print("---")
+    
+def run_class_tests():
+    print("\nRunning class tests...")
+    suite = unittest.defaultTestLoader.loadTestsFromTestCase(test_classes.TestPickleClasses)
+    runner = unittest.TextTestRunner(stream=sys.stdout, verbosity=1)
+
+    result = runner.run(suite)
+    if result.wasSuccessful():
+        print("Class test: OK")
+    else:
+        print("Class test: FAILED")
 
 def main():
     env_info()
@@ -31,6 +44,8 @@ def main():
 
     for test in test_results:
         print(test)
+        
+    run_class_tests()
     
 if __name__=='__main__':
     main()
