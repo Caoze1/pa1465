@@ -6,9 +6,7 @@
 | REQ-2 |    |  | Pass/Fail | Full/Partial | |
 | REQ-3 |    |  | Pass/Fail | Full/Partial | |
 
-## Legend:
-- **Test Status**: Pass (test meets requirement), Fail (test does not meet requirement)
-- **Coverage**: Full (requirement fully tested), Partial (only parts of requirement tested)
+
 
 ## Test Environment
 
