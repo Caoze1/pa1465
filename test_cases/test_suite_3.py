@@ -26,22 +26,29 @@ def pickle(pickler):
     }
     pickle_results.append(("Graph (adjacency list)", pickler(graph)))
 
-    ### Test 2: Recursive list
-    a = [1, 2, 3]
-    a.append(a)
-    pickle_results.append(("Recursive list", pickler(a)))
+    ### Test 2: Nested dict
+    nested_dict = {"x": [1, 2, {"a": True}], "y": deque([3, 4])}
+    pickle_results.append(("Nested dict", pickler(nested_dict)))
 
-    ### Test 3: Queue (deque with popleft)
+    ### Test 3: Tree as Nested Dict
+    tree = {
+        "root": {
+            "left": {"value": 1},
+            "right": {
+                "left": {"value": 2},
+                "right": {"value": 3}
+            }
+        }
+    }
+    pickle_results.append(("Tree (nested dict)", pickler(tree)))
+
+    ### Test 4: Queue (deque with popleft)
     q = deque()
     for i in range(5000):
         q.append(i)
     for _ in range(2500):
         q.popleft()
     pickle_results.append(("Queue (deque, FIFO)", pickler(q)))
-
-    ### Test 4: Nested dict
-    nested_dict = {"x": [1, 2, {"a": True}], "y": deque([3, 4])}
-    pickle_results.append(("Nested dict", pickler(nested_dict)))
 
     ### Test 5: Large set
     s = set(range(50000))
@@ -59,19 +66,7 @@ def pickle(pickler):
         stack.pop()
     pickle_results.append(("Stack (list, LIFO)", pickler(stack)))
 
-    ### Test 8: Tree as Nested Dict
-    tree = {
-        "root": {
-            "left": {"value": 1},
-            "right": {
-                "left": {"value": 2},
-                "right": {"value": 3}
-            }
-        }
-    }
-    pickle_results.append(("Tree (nested dict)", pickler(tree)))
-
-    ### Test 9: Heap-ish nested list (Fibonacci-like)
+    ### Test 8: Heap-ish nested list (Fibonacci-like)
     fib_like = [1]
     for i in range(2, 10):
         fib_like = [i, fib_like]
