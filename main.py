@@ -1,6 +1,6 @@
 import pickle
 from hashlib import sha256
-from test_cases import test_suite_0, test_suite_1, test_suite_2
+from test_cases import test_suite_0, test_suite_1, test_suite_2, test_suite_3
 from tests import test_classes
 import unittest
 import sys, platform
@@ -41,6 +41,7 @@ def main():
     test_results.extend(test_suite_0.pickle(pickler))
     test_results.extend(test_suite_1.pickle(pickler))
     test_results.extend(test_suite_2.pickle(pickler))
+    test_results.extend(test_suite_3.pickle(pickler))
 
     for test in test_results:
         print(test)
