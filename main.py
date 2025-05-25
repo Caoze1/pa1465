@@ -1,6 +1,6 @@
 import pickle
 from hashlib import sha256
-from test_cases import test_suite_0, test_suite_1, test_suite_2, test_suite_3
+from test_cases import test_suite_0, test_suite_1, test_suite_2, test_suite_3, test_suite_4
 from tests import test_classes
 import unittest
 import sys, platform
