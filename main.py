@@ -42,6 +42,7 @@ def main():
     test_results.extend(test_suite_1.pickle(pickler))
     test_results.extend(test_suite_2.pickle(pickler))
     test_results.extend(test_suite_3.pickle(pickler))
+    test_results.extend(test_suite_4.pickle(pickler))
 
     for test in test_results:
         print(test)
