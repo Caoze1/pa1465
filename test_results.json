@@ -1,0 +1,2280 @@
+{
+    "Binary tree with 10,000 elements": {
+        "3.12.10, Windows 11, 2": {
+            "py_ver": "3.12.10",
+            "platform": "Windows 11",
+            "run": 2,
+            "hash": "f62980648cc36cd62098ab514a8615383e6dfb2431cf2c27aeafc76128357cbf"
+        },
+        "3.12.10, Windows 11, 1": {
+            "py_ver": "3.12.10",
+            "platform": "Windows 11",
+            "run": 1,
+            "hash": "f62980648cc36cd62098ab514a8615383e6dfb2431cf2c27aeafc76128357cbf"
+        },
+        "3.12.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.12.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "f62980648cc36cd62098ab514a8615383e6dfb2431cf2c27aeafc76128357cbf"
+        },
+        "3.12.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.12.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "f62980648cc36cd62098ab514a8615383e6dfb2431cf2c27aeafc76128357cbf"
+        },
+        "3.8.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.8.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "f62980648cc36cd62098ab514a8615383e6dfb2431cf2c27aeafc76128357cbf"
+        },
+        "3.8.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.8.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "f62980648cc36cd62098ab514a8615383e6dfb2431cf2c27aeafc76128357cbf"
+        },
+        "3.10.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.10.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "f62980648cc36cd62098ab514a8615383e6dfb2431cf2c27aeafc76128357cbf"
+        },
+        "3.10.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.10.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "f62980648cc36cd62098ab514a8615383e6dfb2431cf2c27aeafc76128357cbf"
+        }
+    },
+    "Deque with 10,000 elements": {
+        "3.12.10, Windows 11, 2": {
+            "py_ver": "3.12.10",
+            "platform": "Windows 11",
+            "run": 2,
+            "hash": "de97457fab1e59c22eafac3f36ab701145655f95f2554cb6e5609288effcd959"
+        },
+        "3.12.10, Windows 11, 1": {
+            "py_ver": "3.12.10",
+            "platform": "Windows 11",
+            "run": 1,
+            "hash": "de97457fab1e59c22eafac3f36ab701145655f95f2554cb6e5609288effcd959"
+        },
+        "3.12.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.12.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "de97457fab1e59c22eafac3f36ab701145655f95f2554cb6e5609288effcd959"
+        },
+        "3.12.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.12.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "de97457fab1e59c22eafac3f36ab701145655f95f2554cb6e5609288effcd959"
+        },
+        "3.8.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.8.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "de97457fab1e59c22eafac3f36ab701145655f95f2554cb6e5609288effcd959"
+        },
+        "3.8.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.8.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "de97457fab1e59c22eafac3f36ab701145655f95f2554cb6e5609288effcd959"
+        },
+        "3.10.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.10.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "de97457fab1e59c22eafac3f36ab701145655f95f2554cb6e5609288effcd959"
+        },
+        "3.10.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.10.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "de97457fab1e59c22eafac3f36ab701145655f95f2554cb6e5609288effcd959"
+        }
+    },
+    "List containing itself": {
+        "3.12.10, Windows 11, 2": {
+            "py_ver": "3.12.10",
+            "platform": "Windows 11",
+            "run": 2,
+            "hash": "53cdd3d6473b62403bff5aa9f134b5a4e98c7d1a019662f01de2c266ec4672f4"
+        },
+        "3.12.10, Windows 11, 1": {
+            "py_ver": "3.12.10",
+            "platform": "Windows 11",
+            "run": 1,
+            "hash": "53cdd3d6473b62403bff5aa9f134b5a4e98c7d1a019662f01de2c266ec4672f4"
+        },
+        "3.12.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.12.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "53cdd3d6473b62403bff5aa9f134b5a4e98c7d1a019662f01de2c266ec4672f4"
+        },
+        "3.12.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.12.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "53cdd3d6473b62403bff5aa9f134b5a4e98c7d1a019662f01de2c266ec4672f4"
+        },
+        "3.8.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.8.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "53cdd3d6473b62403bff5aa9f134b5a4e98c7d1a019662f01de2c266ec4672f4"
+        },
+        "3.8.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.8.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "53cdd3d6473b62403bff5aa9f134b5a4e98c7d1a019662f01de2c266ec4672f4"
+        },
+        "3.10.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.10.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "53cdd3d6473b62403bff5aa9f134b5a4e98c7d1a019662f01de2c266ec4672f4"
+        },
+        "3.10.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.10.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "53cdd3d6473b62403bff5aa9f134b5a4e98c7d1a019662f01de2c266ec4672f4"
+        }
+    },
+    "A cyclic set of nodes": {
+        "3.12.10, Windows 11, 2": {
+            "py_ver": "3.12.10",
+            "platform": "Windows 11",
+            "run": 2,
+            "hash": "38b69e6a8375d0f3be2678eccbb325e42d97d0de6d653c6f036b1d6cc68779b0"
+        },
+        "3.12.10, Windows 11, 1": {
+            "py_ver": "3.12.10",
+            "platform": "Windows 11",
+            "run": 1,
+            "hash": "38b69e6a8375d0f3be2678eccbb325e42d97d0de6d653c6f036b1d6cc68779b0"
+        },
+        "3.12.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.12.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "38b69e6a8375d0f3be2678eccbb325e42d97d0de6d653c6f036b1d6cc68779b0"
+        },
+        "3.12.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.12.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "38b69e6a8375d0f3be2678eccbb325e42d97d0de6d653c6f036b1d6cc68779b0"
+        },
+        "3.8.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.8.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "38b69e6a8375d0f3be2678eccbb325e42d97d0de6d653c6f036b1d6cc68779b0"
+        },
+        "3.8.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.8.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "38b69e6a8375d0f3be2678eccbb325e42d97d0de6d653c6f036b1d6cc68779b0"
+        },
+        "3.10.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.10.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "38b69e6a8375d0f3be2678eccbb325e42d97d0de6d653c6f036b1d6cc68779b0"
+        },
+        "3.10.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.10.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "38b69e6a8375d0f3be2678eccbb325e42d97d0de6d653c6f036b1d6cc68779b0"
+        }
+    },
+    "Basic integer": {
+        "3.12.10, Windows 11, 2": {
+            "py_ver": "3.12.10",
+            "platform": "Windows 11",
+            "run": 2,
+            "hash": "4ee5d22e9e44ec6480a2fc727c72c7886855f94562e8549cfae9a33f7361574b"
+        },
+        "3.12.10, Windows 11, 1": {
+            "py_ver": "3.12.10",
+            "platform": "Windows 11",
+            "run": 1,
+            "hash": "4ee5d22e9e44ec6480a2fc727c72c7886855f94562e8549cfae9a33f7361574b"
+        },
+        "3.12.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.12.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "4ee5d22e9e44ec6480a2fc727c72c7886855f94562e8549cfae9a33f7361574b"
+        },
+        "3.12.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.12.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "4ee5d22e9e44ec6480a2fc727c72c7886855f94562e8549cfae9a33f7361574b"
+        },
+        "3.8.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.8.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "4ee5d22e9e44ec6480a2fc727c72c7886855f94562e8549cfae9a33f7361574b"
+        },
+        "3.8.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.8.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "4ee5d22e9e44ec6480a2fc727c72c7886855f94562e8549cfae9a33f7361574b"
+        },
+        "3.10.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.10.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "4ee5d22e9e44ec6480a2fc727c72c7886855f94562e8549cfae9a33f7361574b"
+        },
+        "3.10.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.10.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "4ee5d22e9e44ec6480a2fc727c72c7886855f94562e8549cfae9a33f7361574b"
+        }
+    },
+    "Very large integer (10**100)": {
+        "3.12.10, Windows 11, 2": {
+            "py_ver": "3.12.10",
+            "platform": "Windows 11",
+            "run": 2,
+            "hash": "56d064266f1dc0bb161d11912a38948db497da1d303c92d9ba6851ac28ce4428"
+        },
+        "3.12.10, Windows 11, 1": {
+            "py_ver": "3.12.10",
+            "platform": "Windows 11",
+            "run": 1,
+            "hash": "56d064266f1dc0bb161d11912a38948db497da1d303c92d9ba6851ac28ce4428"
+        },
+        "3.12.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.12.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "56d064266f1dc0bb161d11912a38948db497da1d303c92d9ba6851ac28ce4428"
+        },
+        "3.12.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.12.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "56d064266f1dc0bb161d11912a38948db497da1d303c92d9ba6851ac28ce4428"
+        },
+        "3.8.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.8.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "56d064266f1dc0bb161d11912a38948db497da1d303c92d9ba6851ac28ce4428"
+        },
+        "3.8.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.8.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "56d064266f1dc0bb161d11912a38948db497da1d303c92d9ba6851ac28ce4428"
+        },
+        "3.10.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.10.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "56d064266f1dc0bb161d11912a38948db497da1d303c92d9ba6851ac28ce4428"
+        },
+        "3.10.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.10.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "56d064266f1dc0bb161d11912a38948db497da1d303c92d9ba6851ac28ce4428"
+        }
+    },
+    "Basic float": {
+        "3.12.10, Windows 11, 2": {
+            "py_ver": "3.12.10",
+            "platform": "Windows 11",
+            "run": 2,
+            "hash": "0b5c6202025227ba3f177d6927438d5db991b59974338553501b300d669f7b70"
+        },
+        "3.12.10, Windows 11, 1": {
+            "py_ver": "3.12.10",
+            "platform": "Windows 11",
+            "run": 1,
+            "hash": "0b5c6202025227ba3f177d6927438d5db991b59974338553501b300d669f7b70"
+        },
+        "3.12.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.12.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "0b5c6202025227ba3f177d6927438d5db991b59974338553501b300d669f7b70"
+        },
+        "3.12.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.12.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "0b5c6202025227ba3f177d6927438d5db991b59974338553501b300d669f7b70"
+        },
+        "3.8.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.8.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "0b5c6202025227ba3f177d6927438d5db991b59974338553501b300d669f7b70"
+        },
+        "3.8.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.8.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "0b5c6202025227ba3f177d6927438d5db991b59974338553501b300d669f7b70"
+        },
+        "3.10.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.10.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "0b5c6202025227ba3f177d6927438d5db991b59974338553501b300d669f7b70"
+        },
+        "3.10.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.10.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "0b5c6202025227ba3f177d6927438d5db991b59974338553501b300d669f7b70"
+        }
+    },
+    "Positive infinity": {
+        "3.12.10, Windows 11, 2": {
+            "py_ver": "3.12.10",
+            "platform": "Windows 11",
+            "run": 2,
+            "hash": "1b51ffe28645d16d1d34475071eef737ef4c1ea09eb443761da2d75821bf3398"
+        },
+        "3.12.10, Windows 11, 1": {
+            "py_ver": "3.12.10",
+            "platform": "Windows 11",
+            "run": 1,
+            "hash": "1b51ffe28645d16d1d34475071eef737ef4c1ea09eb443761da2d75821bf3398"
+        },
+        "3.12.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.12.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "1b51ffe28645d16d1d34475071eef737ef4c1ea09eb443761da2d75821bf3398"
+        },
+        "3.12.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.12.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "1b51ffe28645d16d1d34475071eef737ef4c1ea09eb443761da2d75821bf3398"
+        },
+        "3.8.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.8.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "1b51ffe28645d16d1d34475071eef737ef4c1ea09eb443761da2d75821bf3398"
+        },
+        "3.8.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.8.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "1b51ffe28645d16d1d34475071eef737ef4c1ea09eb443761da2d75821bf3398"
+        },
+        "3.10.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.10.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "1b51ffe28645d16d1d34475071eef737ef4c1ea09eb443761da2d75821bf3398"
+        },
+        "3.10.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.10.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "1b51ffe28645d16d1d34475071eef737ef4c1ea09eb443761da2d75821bf3398"
+        }
+    },
+    "Negative infinity": {
+        "3.12.10, Windows 11, 2": {
+            "py_ver": "3.12.10",
+            "platform": "Windows 11",
+            "run": 2,
+            "hash": "6f5e2cc472d247afe9caf8b0f6a765d70826525e777deb031d6331942675c003"
+        },
+        "3.12.10, Windows 11, 1": {
+            "py_ver": "3.12.10",
+            "platform": "Windows 11",
+            "run": 1,
+            "hash": "6f5e2cc472d247afe9caf8b0f6a765d70826525e777deb031d6331942675c003"
+        },
+        "3.12.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.12.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "6f5e2cc472d247afe9caf8b0f6a765d70826525e777deb031d6331942675c003"
+        },
+        "3.12.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.12.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "6f5e2cc472d247afe9caf8b0f6a765d70826525e777deb031d6331942675c003"
+        },
+        "3.8.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.8.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "6f5e2cc472d247afe9caf8b0f6a765d70826525e777deb031d6331942675c003"
+        },
+        "3.8.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.8.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "6f5e2cc472d247afe9caf8b0f6a765d70826525e777deb031d6331942675c003"
+        },
+        "3.10.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.10.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "6f5e2cc472d247afe9caf8b0f6a765d70826525e777deb031d6331942675c003"
+        },
+        "3.10.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.10.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "6f5e2cc472d247afe9caf8b0f6a765d70826525e777deb031d6331942675c003"
+        }
+    },
+    "NaN": {
+        "3.12.10, Windows 11, 2": {
+            "py_ver": "3.12.10",
+            "platform": "Windows 11",
+            "run": 2,
+            "hash": "3d9d4af6ee01677bd51d3efb4dca6c1339ae8b2a73102f65990a6cbd7625eba9"
+        },
+        "3.12.10, Windows 11, 1": {
+            "py_ver": "3.12.10",
+            "platform": "Windows 11",
+            "run": 1,
+            "hash": "3d9d4af6ee01677bd51d3efb4dca6c1339ae8b2a73102f65990a6cbd7625eba9"
+        },
+        "3.12.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.12.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "3d9d4af6ee01677bd51d3efb4dca6c1339ae8b2a73102f65990a6cbd7625eba9"
+        },
+        "3.12.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.12.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "3d9d4af6ee01677bd51d3efb4dca6c1339ae8b2a73102f65990a6cbd7625eba9"
+        },
+        "3.8.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.8.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "3d9d4af6ee01677bd51d3efb4dca6c1339ae8b2a73102f65990a6cbd7625eba9"
+        },
+        "3.8.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.8.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "3d9d4af6ee01677bd51d3efb4dca6c1339ae8b2a73102f65990a6cbd7625eba9"
+        },
+        "3.10.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.10.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "3d9d4af6ee01677bd51d3efb4dca6c1339ae8b2a73102f65990a6cbd7625eba9"
+        },
+        "3.10.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.10.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "3d9d4af6ee01677bd51d3efb4dca6c1339ae8b2a73102f65990a6cbd7625eba9"
+        }
+    },
+    "Decimal with high precision": {
+        "3.12.10, Windows 11, 2": {
+            "py_ver": "3.12.10",
+            "platform": "Windows 11",
+            "run": 2,
+            "hash": "98b1543f9342b8db2eabf9d8e0abc839694f80ccf005abe0427286c7c74b0def"
+        },
+        "3.12.10, Windows 11, 1": {
+            "py_ver": "3.12.10",
+            "platform": "Windows 11",
+            "run": 1,
+            "hash": "98b1543f9342b8db2eabf9d8e0abc839694f80ccf005abe0427286c7c74b0def"
+        },
+        "3.12.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.12.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "98b1543f9342b8db2eabf9d8e0abc839694f80ccf005abe0427286c7c74b0def"
+        },
+        "3.12.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.12.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "98b1543f9342b8db2eabf9d8e0abc839694f80ccf005abe0427286c7c74b0def"
+        },
+        "3.8.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.8.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "98b1543f9342b8db2eabf9d8e0abc839694f80ccf005abe0427286c7c74b0def"
+        },
+        "3.8.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.8.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "98b1543f9342b8db2eabf9d8e0abc839694f80ccf005abe0427286c7c74b0def"
+        },
+        "3.10.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.10.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "98b1543f9342b8db2eabf9d8e0abc839694f80ccf005abe0427286c7c74b0def"
+        },
+        "3.10.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.10.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "98b1543f9342b8db2eabf9d8e0abc839694f80ccf005abe0427286c7c74b0def"
+        }
+    },
+    "Fraction (353/113)": {
+        "3.12.10, Windows 11, 2": {
+            "py_ver": "3.12.10",
+            "platform": "Windows 11",
+            "run": 2,
+            "hash": "01f104eeda91f4255717230adcc7ba9c8655426992953b71f68573e3bc0aa13d"
+        },
+        "3.12.10, Windows 11, 1": {
+            "py_ver": "3.12.10",
+            "platform": "Windows 11",
+            "run": 1,
+            "hash": "01f104eeda91f4255717230adcc7ba9c8655426992953b71f68573e3bc0aa13d"
+        },
+        "3.12.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.12.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "01f104eeda91f4255717230adcc7ba9c8655426992953b71f68573e3bc0aa13d"
+        },
+        "3.12.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.12.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "01f104eeda91f4255717230adcc7ba9c8655426992953b71f68573e3bc0aa13d"
+        },
+        "3.8.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.8.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "4d18fd0ca91577353515c2db9d5e44c8d978a99f1ea29c7bd460c63263cffe51"
+        },
+        "3.8.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.8.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "4d18fd0ca91577353515c2db9d5e44c8d978a99f1ea29c7bd460c63263cffe51"
+        },
+        "3.10.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.10.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "4d18fd0ca91577353515c2db9d5e44c8d978a99f1ea29c7bd460c63263cffe51"
+        },
+        "3.10.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.10.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "4d18fd0ca91577353515c2db9d5e44c8d978a99f1ea29c7bd460c63263cffe51"
+        }
+    },
+    "Negative integer": {
+        "3.12.10, Windows 11, 2": {
+            "py_ver": "3.12.10",
+            "platform": "Windows 11",
+            "run": 2,
+            "hash": "fd42c4073a88ccee1033aadc8c47f89128bd1965179a2f7c0929bcef874a140f"
+        },
+        "3.12.10, Windows 11, 1": {
+            "py_ver": "3.12.10",
+            "platform": "Windows 11",
+            "run": 1,
+            "hash": "fd42c4073a88ccee1033aadc8c47f89128bd1965179a2f7c0929bcef874a140f"
+        },
+        "3.12.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.12.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "fd42c4073a88ccee1033aadc8c47f89128bd1965179a2f7c0929bcef874a140f"
+        },
+        "3.12.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.12.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "fd42c4073a88ccee1033aadc8c47f89128bd1965179a2f7c0929bcef874a140f"
+        },
+        "3.8.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.8.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "fd42c4073a88ccee1033aadc8c47f89128bd1965179a2f7c0929bcef874a140f"
+        },
+        "3.8.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.8.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "fd42c4073a88ccee1033aadc8c47f89128bd1965179a2f7c0929bcef874a140f"
+        },
+        "3.10.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.10.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "fd42c4073a88ccee1033aadc8c47f89128bd1965179a2f7c0929bcef874a140f"
+        },
+        "3.10.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.10.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "fd42c4073a88ccee1033aadc8c47f89128bd1965179a2f7c0929bcef874a140f"
+        }
+    },
+    "Negative float": {
+        "3.12.10, Windows 11, 2": {
+            "py_ver": "3.12.10",
+            "platform": "Windows 11",
+            "run": 2,
+            "hash": "0ccc37ec0fda8893f102de325bae2601e0168335ad0e4f65acd0b252b72c4c54"
+        },
+        "3.12.10, Windows 11, 1": {
+            "py_ver": "3.12.10",
+            "platform": "Windows 11",
+            "run": 1,
+            "hash": "0ccc37ec0fda8893f102de325bae2601e0168335ad0e4f65acd0b252b72c4c54"
+        },
+        "3.12.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.12.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "0ccc37ec0fda8893f102de325bae2601e0168335ad0e4f65acd0b252b72c4c54"
+        },
+        "3.12.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.12.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "0ccc37ec0fda8893f102de325bae2601e0168335ad0e4f65acd0b252b72c4c54"
+        },
+        "3.8.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.8.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "0ccc37ec0fda8893f102de325bae2601e0168335ad0e4f65acd0b252b72c4c54"
+        },
+        "3.8.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.8.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "0ccc37ec0fda8893f102de325bae2601e0168335ad0e4f65acd0b252b72c4c54"
+        },
+        "3.10.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.10.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "0ccc37ec0fda8893f102de325bae2601e0168335ad0e4f65acd0b252b72c4c54"
+        },
+        "3.10.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.10.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "0ccc37ec0fda8893f102de325bae2601e0168335ad0e4f65acd0b252b72c4c54"
+        }
+    },
+    "Tuple of mixed numbers": {
+        "3.12.10, Windows 11, 2": {
+            "py_ver": "3.12.10",
+            "platform": "Windows 11",
+            "run": 2,
+            "hash": "e35d2a93abda8a0c4e7fce7fdb4376678156bd4e5bea0ab7f01b78cc9f1b764d"
+        },
+        "3.12.10, Windows 11, 1": {
+            "py_ver": "3.12.10",
+            "platform": "Windows 11",
+            "run": 1,
+            "hash": "e35d2a93abda8a0c4e7fce7fdb4376678156bd4e5bea0ab7f01b78cc9f1b764d"
+        },
+        "3.12.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.12.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "e35d2a93abda8a0c4e7fce7fdb4376678156bd4e5bea0ab7f01b78cc9f1b764d"
+        },
+        "3.12.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.12.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "e35d2a93abda8a0c4e7fce7fdb4376678156bd4e5bea0ab7f01b78cc9f1b764d"
+        },
+        "3.8.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.8.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "a88b99ed3fb88cc607fd6f0c2e0dadc550e9d03d47c200dd75c56114e0b03fc2"
+        },
+        "3.8.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.8.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "a88b99ed3fb88cc607fd6f0c2e0dadc550e9d03d47c200dd75c56114e0b03fc2"
+        },
+        "3.10.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.10.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "a88b99ed3fb88cc607fd6f0c2e0dadc550e9d03d47c200dd75c56114e0b03fc2"
+        },
+        "3.10.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.10.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "a88b99ed3fb88cc607fd6f0c2e0dadc550e9d03d47c200dd75c56114e0b03fc2"
+        }
+    },
+    "List of floats from -100.0 to 100.0": {
+        "3.12.10, Windows 11, 2": {
+            "py_ver": "3.12.10",
+            "platform": "Windows 11",
+            "run": 2,
+            "hash": "2bc00c0561e419551edde7a92fb297661cc892f2ba71320c3c8d3879d9e72ec1"
+        },
+        "3.12.10, Windows 11, 1": {
+            "py_ver": "3.12.10",
+            "platform": "Windows 11",
+            "run": 1,
+            "hash": "2bc00c0561e419551edde7a92fb297661cc892f2ba71320c3c8d3879d9e72ec1"
+        },
+        "3.12.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.12.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "2bc00c0561e419551edde7a92fb297661cc892f2ba71320c3c8d3879d9e72ec1"
+        },
+        "3.12.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.12.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "2bc00c0561e419551edde7a92fb297661cc892f2ba71320c3c8d3879d9e72ec1"
+        },
+        "3.8.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.8.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "2bc00c0561e419551edde7a92fb297661cc892f2ba71320c3c8d3879d9e72ec1"
+        },
+        "3.8.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.8.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "2bc00c0561e419551edde7a92fb297661cc892f2ba71320c3c8d3879d9e72ec1"
+        },
+        "3.10.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.10.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "2bc00c0561e419551edde7a92fb297661cc892f2ba71320c3c8d3879d9e72ec1"
+        },
+        "3.10.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.10.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "2bc00c0561e419551edde7a92fb297661cc892f2ba71320c3c8d3879d9e72ec1"
+        }
+    },
+    "Random ASCII": {
+        "3.12.10, Windows 11, 2": {
+            "py_ver": "3.12.10",
+            "platform": "Windows 11",
+            "run": 2,
+            "hash": "6a9351d77f5d6a53516d45194991a7d886f2a126ae71211828baf00426ff96e7"
+        },
+        "3.12.10, Windows 11, 1": {
+            "py_ver": "3.12.10",
+            "platform": "Windows 11",
+            "run": 1,
+            "hash": "6a9351d77f5d6a53516d45194991a7d886f2a126ae71211828baf00426ff96e7"
+        },
+        "3.12.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.12.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "6a9351d77f5d6a53516d45194991a7d886f2a126ae71211828baf00426ff96e7"
+        },
+        "3.12.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.12.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "6a9351d77f5d6a53516d45194991a7d886f2a126ae71211828baf00426ff96e7"
+        },
+        "3.8.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.8.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "6a9351d77f5d6a53516d45194991a7d886f2a126ae71211828baf00426ff96e7"
+        },
+        "3.8.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.8.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "6a9351d77f5d6a53516d45194991a7d886f2a126ae71211828baf00426ff96e7"
+        },
+        "3.10.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.10.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "6a9351d77f5d6a53516d45194991a7d886f2a126ae71211828baf00426ff96e7"
+        },
+        "3.10.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.10.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "6a9351d77f5d6a53516d45194991a7d886f2a126ae71211828baf00426ff96e7"
+        }
+    },
+    "Random Latin-1": {
+        "3.12.10, Windows 11, 2": {
+            "py_ver": "3.12.10",
+            "platform": "Windows 11",
+            "run": 2,
+            "hash": "e0cf570eab83a7eaba52de8f7a5ac3e82ba909d6f9702fed0bae42bd44cdc523"
+        },
+        "3.12.10, Windows 11, 1": {
+            "py_ver": "3.12.10",
+            "platform": "Windows 11",
+            "run": 1,
+            "hash": "e0cf570eab83a7eaba52de8f7a5ac3e82ba909d6f9702fed0bae42bd44cdc523"
+        },
+        "3.12.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.12.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "e0cf570eab83a7eaba52de8f7a5ac3e82ba909d6f9702fed0bae42bd44cdc523"
+        },
+        "3.12.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.12.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "e0cf570eab83a7eaba52de8f7a5ac3e82ba909d6f9702fed0bae42bd44cdc523"
+        },
+        "3.8.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.8.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "e0cf570eab83a7eaba52de8f7a5ac3e82ba909d6f9702fed0bae42bd44cdc523"
+        },
+        "3.8.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.8.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "e0cf570eab83a7eaba52de8f7a5ac3e82ba909d6f9702fed0bae42bd44cdc523"
+        },
+        "3.10.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.10.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "e0cf570eab83a7eaba52de8f7a5ac3e82ba909d6f9702fed0bae42bd44cdc523"
+        },
+        "3.10.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.10.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "e0cf570eab83a7eaba52de8f7a5ac3e82ba909d6f9702fed0bae42bd44cdc523"
+        }
+    },
+    "Random Hebrew": {
+        "3.12.10, Windows 11, 2": {
+            "py_ver": "3.12.10",
+            "platform": "Windows 11",
+            "run": 2,
+            "hash": "7f1ed9814227fb8a607affcb4284e88ea8886d9d36c88b2e7c25e173c00378d8"
+        },
+        "3.12.10, Windows 11, 1": {
+            "py_ver": "3.12.10",
+            "platform": "Windows 11",
+            "run": 1,
+            "hash": "7f1ed9814227fb8a607affcb4284e88ea8886d9d36c88b2e7c25e173c00378d8"
+        },
+        "3.12.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.12.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "7f1ed9814227fb8a607affcb4284e88ea8886d9d36c88b2e7c25e173c00378d8"
+        },
+        "3.12.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.12.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "7f1ed9814227fb8a607affcb4284e88ea8886d9d36c88b2e7c25e173c00378d8"
+        },
+        "3.8.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.8.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "7f1ed9814227fb8a607affcb4284e88ea8886d9d36c88b2e7c25e173c00378d8"
+        },
+        "3.8.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.8.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "7f1ed9814227fb8a607affcb4284e88ea8886d9d36c88b2e7c25e173c00378d8"
+        },
+        "3.10.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.10.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "7f1ed9814227fb8a607affcb4284e88ea8886d9d36c88b2e7c25e173c00378d8"
+        },
+        "3.10.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.10.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "7f1ed9814227fb8a607affcb4284e88ea8886d9d36c88b2e7c25e173c00378d8"
+        }
+    },
+    "Random Greek": {
+        "3.12.10, Windows 11, 2": {
+            "py_ver": "3.12.10",
+            "platform": "Windows 11",
+            "run": 2,
+            "hash": "ba34f32ff1c96910c5d80ac345849a6036ca0a1cf4e0f1de7952d3bde1f02cca"
+        },
+        "3.12.10, Windows 11, 1": {
+            "py_ver": "3.12.10",
+            "platform": "Windows 11",
+            "run": 1,
+            "hash": "ba34f32ff1c96910c5d80ac345849a6036ca0a1cf4e0f1de7952d3bde1f02cca"
+        },
+        "3.12.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.12.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "ba34f32ff1c96910c5d80ac345849a6036ca0a1cf4e0f1de7952d3bde1f02cca"
+        },
+        "3.12.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.12.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "ba34f32ff1c96910c5d80ac345849a6036ca0a1cf4e0f1de7952d3bde1f02cca"
+        },
+        "3.8.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.8.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "ba34f32ff1c96910c5d80ac345849a6036ca0a1cf4e0f1de7952d3bde1f02cca"
+        },
+        "3.8.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.8.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "ba34f32ff1c96910c5d80ac345849a6036ca0a1cf4e0f1de7952d3bde1f02cca"
+        },
+        "3.10.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.10.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "ba34f32ff1c96910c5d80ac345849a6036ca0a1cf4e0f1de7952d3bde1f02cca"
+        },
+        "3.10.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.10.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "ba34f32ff1c96910c5d80ac345849a6036ca0a1cf4e0f1de7952d3bde1f02cca"
+        }
+    },
+    "Random Cyrillic": {
+        "3.12.10, Windows 11, 2": {
+            "py_ver": "3.12.10",
+            "platform": "Windows 11",
+            "run": 2,
+            "hash": "1c9b83beeb90abd90173bdfd7c8ad1cf61ee312509849777f30009603e79d079"
+        },
+        "3.12.10, Windows 11, 1": {
+            "py_ver": "3.12.10",
+            "platform": "Windows 11",
+            "run": 1,
+            "hash": "1c9b83beeb90abd90173bdfd7c8ad1cf61ee312509849777f30009603e79d079"
+        },
+        "3.12.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.12.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "1c9b83beeb90abd90173bdfd7c8ad1cf61ee312509849777f30009603e79d079"
+        },
+        "3.12.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.12.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "1c9b83beeb90abd90173bdfd7c8ad1cf61ee312509849777f30009603e79d079"
+        },
+        "3.8.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.8.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "1c9b83beeb90abd90173bdfd7c8ad1cf61ee312509849777f30009603e79d079"
+        },
+        "3.8.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.8.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "1c9b83beeb90abd90173bdfd7c8ad1cf61ee312509849777f30009603e79d079"
+        },
+        "3.10.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.10.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "1c9b83beeb90abd90173bdfd7c8ad1cf61ee312509849777f30009603e79d079"
+        },
+        "3.10.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.10.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "1c9b83beeb90abd90173bdfd7c8ad1cf61ee312509849777f30009603e79d079"
+        }
+    },
+    "Random CJK Han": {
+        "3.12.10, Windows 11, 2": {
+            "py_ver": "3.12.10",
+            "platform": "Windows 11",
+            "run": 2,
+            "hash": "23af5a6fd8dbd00b7ecc77eb4a483535bb6baff15014df662384a94613391544"
+        },
+        "3.12.10, Windows 11, 1": {
+            "py_ver": "3.12.10",
+            "platform": "Windows 11",
+            "run": 1,
+            "hash": "23af5a6fd8dbd00b7ecc77eb4a483535bb6baff15014df662384a94613391544"
+        },
+        "3.12.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.12.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "23af5a6fd8dbd00b7ecc77eb4a483535bb6baff15014df662384a94613391544"
+        },
+        "3.12.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.12.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "23af5a6fd8dbd00b7ecc77eb4a483535bb6baff15014df662384a94613391544"
+        },
+        "3.8.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.8.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "23af5a6fd8dbd00b7ecc77eb4a483535bb6baff15014df662384a94613391544"
+        },
+        "3.8.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.8.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "23af5a6fd8dbd00b7ecc77eb4a483535bb6baff15014df662384a94613391544"
+        },
+        "3.10.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.10.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "23af5a6fd8dbd00b7ecc77eb4a483535bb6baff15014df662384a94613391544"
+        },
+        "3.10.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.10.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "23af5a6fd8dbd00b7ecc77eb4a483535bb6baff15014df662384a94613391544"
+        }
+    },
+    "Random Emoji": {
+        "3.12.10, Windows 11, 2": {
+            "py_ver": "3.12.10",
+            "platform": "Windows 11",
+            "run": 2,
+            "hash": "0b9a34f5f21ae2d745f198eeb95c978ad2f3d6746eaa1909ea2cc9b258ae767e"
+        },
+        "3.12.10, Windows 11, 1": {
+            "py_ver": "3.12.10",
+            "platform": "Windows 11",
+            "run": 1,
+            "hash": "0b9a34f5f21ae2d745f198eeb95c978ad2f3d6746eaa1909ea2cc9b258ae767e"
+        },
+        "3.12.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.12.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "0b9a34f5f21ae2d745f198eeb95c978ad2f3d6746eaa1909ea2cc9b258ae767e"
+        },
+        "3.12.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.12.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "0b9a34f5f21ae2d745f198eeb95c978ad2f3d6746eaa1909ea2cc9b258ae767e"
+        },
+        "3.8.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.8.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "0b9a34f5f21ae2d745f198eeb95c978ad2f3d6746eaa1909ea2cc9b258ae767e"
+        },
+        "3.8.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.8.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "0b9a34f5f21ae2d745f198eeb95c978ad2f3d6746eaa1909ea2cc9b258ae767e"
+        },
+        "3.10.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.10.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "0b9a34f5f21ae2d745f198eeb95c978ad2f3d6746eaa1909ea2cc9b258ae767e"
+        },
+        "3.10.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.10.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "0b9a34f5f21ae2d745f198eeb95c978ad2f3d6746eaa1909ea2cc9b258ae767e"
+        }
+    },
+    "Graph (adjacency list)": {
+        "3.12.10, Windows 11, 2": {
+            "py_ver": "3.12.10",
+            "platform": "Windows 11",
+            "run": 2,
+            "hash": "91689e5e03a45a170267b23511f0f4d9270ad6fac857511265f9efb714689b88"
+        },
+        "3.12.10, Windows 11, 1": {
+            "py_ver": "3.12.10",
+            "platform": "Windows 11",
+            "run": 1,
+            "hash": "91689e5e03a45a170267b23511f0f4d9270ad6fac857511265f9efb714689b88"
+        },
+        "3.12.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.12.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "91689e5e03a45a170267b23511f0f4d9270ad6fac857511265f9efb714689b88"
+        },
+        "3.12.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.12.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "91689e5e03a45a170267b23511f0f4d9270ad6fac857511265f9efb714689b88"
+        },
+        "3.8.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.8.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "91689e5e03a45a170267b23511f0f4d9270ad6fac857511265f9efb714689b88"
+        },
+        "3.8.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.8.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "91689e5e03a45a170267b23511f0f4d9270ad6fac857511265f9efb714689b88"
+        },
+        "3.10.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.10.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "91689e5e03a45a170267b23511f0f4d9270ad6fac857511265f9efb714689b88"
+        },
+        "3.10.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.10.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "91689e5e03a45a170267b23511f0f4d9270ad6fac857511265f9efb714689b88"
+        }
+    },
+    "Nested dict": {
+        "3.12.10, Windows 11, 2": {
+            "py_ver": "3.12.10",
+            "platform": "Windows 11",
+            "run": 2,
+            "hash": "0a9be5b0d0964fbe27835c8086f49de61296f484f9f67948108b7e8abf2000b2"
+        },
+        "3.12.10, Windows 11, 1": {
+            "py_ver": "3.12.10",
+            "platform": "Windows 11",
+            "run": 1,
+            "hash": "0a9be5b0d0964fbe27835c8086f49de61296f484f9f67948108b7e8abf2000b2"
+        },
+        "3.12.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.12.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "0a9be5b0d0964fbe27835c8086f49de61296f484f9f67948108b7e8abf2000b2"
+        },
+        "3.12.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.12.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "0a9be5b0d0964fbe27835c8086f49de61296f484f9f67948108b7e8abf2000b2"
+        },
+        "3.8.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.8.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "0a9be5b0d0964fbe27835c8086f49de61296f484f9f67948108b7e8abf2000b2"
+        },
+        "3.8.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.8.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "0a9be5b0d0964fbe27835c8086f49de61296f484f9f67948108b7e8abf2000b2"
+        },
+        "3.10.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.10.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "0a9be5b0d0964fbe27835c8086f49de61296f484f9f67948108b7e8abf2000b2"
+        },
+        "3.10.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.10.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "0a9be5b0d0964fbe27835c8086f49de61296f484f9f67948108b7e8abf2000b2"
+        }
+    },
+    "Tree (nested dict)": {
+        "3.12.10, Windows 11, 2": {
+            "py_ver": "3.12.10",
+            "platform": "Windows 11",
+            "run": 2,
+            "hash": "6983517065f174cafd7b8269da4cd7b48ac8ce4f3804dcb0625672061c43103f"
+        },
+        "3.12.10, Windows 11, 1": {
+            "py_ver": "3.12.10",
+            "platform": "Windows 11",
+            "run": 1,
+            "hash": "6983517065f174cafd7b8269da4cd7b48ac8ce4f3804dcb0625672061c43103f"
+        },
+        "3.12.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.12.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "6983517065f174cafd7b8269da4cd7b48ac8ce4f3804dcb0625672061c43103f"
+        },
+        "3.12.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.12.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "6983517065f174cafd7b8269da4cd7b48ac8ce4f3804dcb0625672061c43103f"
+        },
+        "3.8.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.8.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "6983517065f174cafd7b8269da4cd7b48ac8ce4f3804dcb0625672061c43103f"
+        },
+        "3.8.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.8.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "6983517065f174cafd7b8269da4cd7b48ac8ce4f3804dcb0625672061c43103f"
+        },
+        "3.10.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.10.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "6983517065f174cafd7b8269da4cd7b48ac8ce4f3804dcb0625672061c43103f"
+        },
+        "3.10.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.10.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "6983517065f174cafd7b8269da4cd7b48ac8ce4f3804dcb0625672061c43103f"
+        }
+    },
+    "Queue (deque, FIFO)": {
+        "3.12.10, Windows 11, 2": {
+            "py_ver": "3.12.10",
+            "platform": "Windows 11",
+            "run": 2,
+            "hash": "7d9dc764c9b62e7d3298e257824747658f7b42a9e309d5a7521f9aea772d28be"
+        },
+        "3.12.10, Windows 11, 1": {
+            "py_ver": "3.12.10",
+            "platform": "Windows 11",
+            "run": 1,
+            "hash": "7d9dc764c9b62e7d3298e257824747658f7b42a9e309d5a7521f9aea772d28be"
+        },
+        "3.12.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.12.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "7d9dc764c9b62e7d3298e257824747658f7b42a9e309d5a7521f9aea772d28be"
+        },
+        "3.12.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.12.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "7d9dc764c9b62e7d3298e257824747658f7b42a9e309d5a7521f9aea772d28be"
+        },
+        "3.8.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.8.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "7d9dc764c9b62e7d3298e257824747658f7b42a9e309d5a7521f9aea772d28be"
+        },
+        "3.8.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.8.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "7d9dc764c9b62e7d3298e257824747658f7b42a9e309d5a7521f9aea772d28be"
+        },
+        "3.10.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.10.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "7d9dc764c9b62e7d3298e257824747658f7b42a9e309d5a7521f9aea772d28be"
+        },
+        "3.10.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.10.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "7d9dc764c9b62e7d3298e257824747658f7b42a9e309d5a7521f9aea772d28be"
+        }
+    },
+    "Set (50000 ints)": {
+        "3.12.10, Windows 11, 2": {
+            "py_ver": "3.12.10",
+            "platform": "Windows 11",
+            "run": 2,
+            "hash": "864b5cd0eae265b3070f1e4707e47181029976f3422325516f042586e63acf2a"
+        },
+        "3.12.10, Windows 11, 1": {
+            "py_ver": "3.12.10",
+            "platform": "Windows 11",
+            "run": 1,
+            "hash": "864b5cd0eae265b3070f1e4707e47181029976f3422325516f042586e63acf2a"
+        },
+        "3.12.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.12.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "864b5cd0eae265b3070f1e4707e47181029976f3422325516f042586e63acf2a"
+        },
+        "3.12.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.12.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "864b5cd0eae265b3070f1e4707e47181029976f3422325516f042586e63acf2a"
+        },
+        "3.8.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.8.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "864b5cd0eae265b3070f1e4707e47181029976f3422325516f042586e63acf2a"
+        },
+        "3.8.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.8.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "864b5cd0eae265b3070f1e4707e47181029976f3422325516f042586e63acf2a"
+        },
+        "3.10.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.10.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "864b5cd0eae265b3070f1e4707e47181029976f3422325516f042586e63acf2a"
+        },
+        "3.10.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.10.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "864b5cd0eae265b3070f1e4707e47181029976f3422325516f042586e63acf2a"
+        }
+    },
+    "Tuple (mixed structures)": {
+        "3.12.10, Windows 11, 2": {
+            "py_ver": "3.12.10",
+            "platform": "Windows 11",
+            "run": 2,
+            "hash": "c0164ac5f3277c8333eb7a22c2cca73a864919d44e1be75d158aca0f30b8de39"
+        },
+        "3.12.10, Windows 11, 1": {
+            "py_ver": "3.12.10",
+            "platform": "Windows 11",
+            "run": 1,
+            "hash": "c0164ac5f3277c8333eb7a22c2cca73a864919d44e1be75d158aca0f30b8de39"
+        },
+        "3.12.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.12.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "c0164ac5f3277c8333eb7a22c2cca73a864919d44e1be75d158aca0f30b8de39"
+        },
+        "3.12.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.12.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "c0164ac5f3277c8333eb7a22c2cca73a864919d44e1be75d158aca0f30b8de39"
+        },
+        "3.8.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.8.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "c0164ac5f3277c8333eb7a22c2cca73a864919d44e1be75d158aca0f30b8de39"
+        },
+        "3.8.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.8.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "c0164ac5f3277c8333eb7a22c2cca73a864919d44e1be75d158aca0f30b8de39"
+        },
+        "3.10.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.10.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "c0164ac5f3277c8333eb7a22c2cca73a864919d44e1be75d158aca0f30b8de39"
+        },
+        "3.10.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.10.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "c0164ac5f3277c8333eb7a22c2cca73a864919d44e1be75d158aca0f30b8de39"
+        }
+    },
+    "Stack (list, LIFO)": {
+        "3.12.10, Windows 11, 2": {
+            "py_ver": "3.12.10",
+            "platform": "Windows 11",
+            "run": 2,
+            "hash": "7feda2ba4e914d1f8be0bf7fe92c815d8d90b723e13be618a7138b75ee235ac8"
+        },
+        "3.12.10, Windows 11, 1": {
+            "py_ver": "3.12.10",
+            "platform": "Windows 11",
+            "run": 1,
+            "hash": "7feda2ba4e914d1f8be0bf7fe92c815d8d90b723e13be618a7138b75ee235ac8"
+        },
+        "3.12.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.12.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "7feda2ba4e914d1f8be0bf7fe92c815d8d90b723e13be618a7138b75ee235ac8"
+        },
+        "3.12.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.12.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "7feda2ba4e914d1f8be0bf7fe92c815d8d90b723e13be618a7138b75ee235ac8"
+        },
+        "3.8.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.8.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "7feda2ba4e914d1f8be0bf7fe92c815d8d90b723e13be618a7138b75ee235ac8"
+        },
+        "3.8.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.8.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "7feda2ba4e914d1f8be0bf7fe92c815d8d90b723e13be618a7138b75ee235ac8"
+        },
+        "3.10.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.10.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "7feda2ba4e914d1f8be0bf7fe92c815d8d90b723e13be618a7138b75ee235ac8"
+        },
+        "3.10.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.10.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "7feda2ba4e914d1f8be0bf7fe92c815d8d90b723e13be618a7138b75ee235ac8"
+        }
+    },
+    "Nested list chain (Fibonacci-like)": {
+        "3.12.10, Windows 11, 2": {
+            "py_ver": "3.12.10",
+            "platform": "Windows 11",
+            "run": 2,
+            "hash": "a83028f4943324ca2e62d42b633489cd11f599af4d0667ac7a73a394f8ab1f4f"
+        },
+        "3.12.10, Windows 11, 1": {
+            "py_ver": "3.12.10",
+            "platform": "Windows 11",
+            "run": 1,
+            "hash": "a83028f4943324ca2e62d42b633489cd11f599af4d0667ac7a73a394f8ab1f4f"
+        },
+        "3.12.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.12.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "a83028f4943324ca2e62d42b633489cd11f599af4d0667ac7a73a394f8ab1f4f"
+        },
+        "3.12.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.12.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "a83028f4943324ca2e62d42b633489cd11f599af4d0667ac7a73a394f8ab1f4f"
+        },
+        "3.8.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.8.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "a83028f4943324ca2e62d42b633489cd11f599af4d0667ac7a73a394f8ab1f4f"
+        },
+        "3.8.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.8.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "a83028f4943324ca2e62d42b633489cd11f599af4d0667ac7a73a394f8ab1f4f"
+        },
+        "3.10.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.10.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "a83028f4943324ca2e62d42b633489cd11f599af4d0667ac7a73a394f8ab1f4f"
+        },
+        "3.10.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.10.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "a83028f4943324ca2e62d42b633489cd11f599af4d0667ac7a73a394f8ab1f4f"
+        }
+    },
+    "Zero": {
+        "3.12.10, Windows 11, 2": {
+            "py_ver": "3.12.10",
+            "platform": "Windows 11",
+            "run": 2,
+            "hash": "cc976f3dfbf8f2c3a3ab3d8859ace71ce6548064dcfa9de3752ab6ea649f69ed"
+        },
+        "3.12.10, Windows 11, 1": {
+            "py_ver": "3.12.10",
+            "platform": "Windows 11",
+            "run": 1,
+            "hash": "cc976f3dfbf8f2c3a3ab3d8859ace71ce6548064dcfa9de3752ab6ea649f69ed"
+        },
+        "3.12.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.12.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "cc976f3dfbf8f2c3a3ab3d8859ace71ce6548064dcfa9de3752ab6ea649f69ed"
+        },
+        "3.12.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.12.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "cc976f3dfbf8f2c3a3ab3d8859ace71ce6548064dcfa9de3752ab6ea649f69ed"
+        },
+        "3.8.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.8.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "cc976f3dfbf8f2c3a3ab3d8859ace71ce6548064dcfa9de3752ab6ea649f69ed"
+        },
+        "3.8.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.8.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "cc976f3dfbf8f2c3a3ab3d8859ace71ce6548064dcfa9de3752ab6ea649f69ed"
+        },
+        "3.10.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.10.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "cc976f3dfbf8f2c3a3ab3d8859ace71ce6548064dcfa9de3752ab6ea649f69ed"
+        },
+        "3.10.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.10.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "cc976f3dfbf8f2c3a3ab3d8859ace71ce6548064dcfa9de3752ab6ea649f69ed"
+        }
+    },
+    "Negative zero": {
+        "3.12.10, Windows 11, 2": {
+            "py_ver": "3.12.10",
+            "platform": "Windows 11",
+            "run": 2,
+            "hash": "7a16207b7902ce9558ba73dc0803d7c52d948fd4ab1fb3cd78131498db37a144"
+        },
+        "3.12.10, Windows 11, 1": {
+            "py_ver": "3.12.10",
+            "platform": "Windows 11",
+            "run": 1,
+            "hash": "7a16207b7902ce9558ba73dc0803d7c52d948fd4ab1fb3cd78131498db37a144"
+        },
+        "3.12.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.12.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "7a16207b7902ce9558ba73dc0803d7c52d948fd4ab1fb3cd78131498db37a144"
+        },
+        "3.12.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.12.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "7a16207b7902ce9558ba73dc0803d7c52d948fd4ab1fb3cd78131498db37a144"
+        },
+        "3.8.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.8.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "7a16207b7902ce9558ba73dc0803d7c52d948fd4ab1fb3cd78131498db37a144"
+        },
+        "3.8.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.8.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "7a16207b7902ce9558ba73dc0803d7c52d948fd4ab1fb3cd78131498db37a144"
+        },
+        "3.10.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.10.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "7a16207b7902ce9558ba73dc0803d7c52d948fd4ab1fb3cd78131498db37a144"
+        },
+        "3.10.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.10.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "7a16207b7902ce9558ba73dc0803d7c52d948fd4ab1fb3cd78131498db37a144"
+        }
+    },
+    "Very large float": {
+        "3.12.10, Windows 11, 2": {
+            "py_ver": "3.12.10",
+            "platform": "Windows 11",
+            "run": 2,
+            "hash": "5306a168ff104ef47e917b682ce222845f53b9971769f44dd10af1133002329e"
+        },
+        "3.12.10, Windows 11, 1": {
+            "py_ver": "3.12.10",
+            "platform": "Windows 11",
+            "run": 1,
+            "hash": "5306a168ff104ef47e917b682ce222845f53b9971769f44dd10af1133002329e"
+        },
+        "3.12.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.12.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "5306a168ff104ef47e917b682ce222845f53b9971769f44dd10af1133002329e"
+        },
+        "3.12.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.12.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "5306a168ff104ef47e917b682ce222845f53b9971769f44dd10af1133002329e"
+        },
+        "3.8.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.8.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "5306a168ff104ef47e917b682ce222845f53b9971769f44dd10af1133002329e"
+        },
+        "3.8.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.8.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "5306a168ff104ef47e917b682ce222845f53b9971769f44dd10af1133002329e"
+        },
+        "3.10.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.10.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "5306a168ff104ef47e917b682ce222845f53b9971769f44dd10af1133002329e"
+        },
+        "3.10.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.10.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "5306a168ff104ef47e917b682ce222845f53b9971769f44dd10af1133002329e"
+        }
+    },
+    "Very small float": {
+        "3.12.10, Windows 11, 2": {
+            "py_ver": "3.12.10",
+            "platform": "Windows 11",
+            "run": 2,
+            "hash": "f2849999f8437351366fd431eb283713d137098f97b295d713edb7f0577a9a67"
+        },
+        "3.12.10, Windows 11, 1": {
+            "py_ver": "3.12.10",
+            "platform": "Windows 11",
+            "run": 1,
+            "hash": "f2849999f8437351366fd431eb283713d137098f97b295d713edb7f0577a9a67"
+        },
+        "3.12.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.12.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "f2849999f8437351366fd431eb283713d137098f97b295d713edb7f0577a9a67"
+        },
+        "3.12.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.12.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "f2849999f8437351366fd431eb283713d137098f97b295d713edb7f0577a9a67"
+        },
+        "3.8.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.8.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "f2849999f8437351366fd431eb283713d137098f97b295d713edb7f0577a9a67"
+        },
+        "3.8.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.8.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "f2849999f8437351366fd431eb283713d137098f97b295d713edb7f0577a9a67"
+        },
+        "3.10.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.10.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "f2849999f8437351366fd431eb283713d137098f97b295d713edb7f0577a9a67"
+        },
+        "3.10.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.10.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "f2849999f8437351366fd431eb283713d137098f97b295d713edb7f0577a9a67"
+        }
+    },
+    "Subnormal float": {
+        "3.12.10, Windows 11, 2": {
+            "py_ver": "3.12.10",
+            "platform": "Windows 11",
+            "run": 2,
+            "hash": "1cf8ae5cc2347feb74c1f573a05f83a7e561da45455ea4251d8eb67cb694cd10"
+        },
+        "3.12.10, Windows 11, 1": {
+            "py_ver": "3.12.10",
+            "platform": "Windows 11",
+            "run": 1,
+            "hash": "1cf8ae5cc2347feb74c1f573a05f83a7e561da45455ea4251d8eb67cb694cd10"
+        },
+        "3.12.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.12.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "1cf8ae5cc2347feb74c1f573a05f83a7e561da45455ea4251d8eb67cb694cd10"
+        },
+        "3.12.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.12.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "1cf8ae5cc2347feb74c1f573a05f83a7e561da45455ea4251d8eb67cb694cd10"
+        },
+        "3.8.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.8.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "1cf8ae5cc2347feb74c1f573a05f83a7e561da45455ea4251d8eb67cb694cd10"
+        },
+        "3.8.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.8.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "1cf8ae5cc2347feb74c1f573a05f83a7e561da45455ea4251d8eb67cb694cd10"
+        },
+        "3.10.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.10.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "1cf8ae5cc2347feb74c1f573a05f83a7e561da45455ea4251d8eb67cb694cd10"
+        },
+        "3.10.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.10.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "1cf8ae5cc2347feb74c1f573a05f83a7e561da45455ea4251d8eb67cb694cd10"
+        }
+    },
+    "List of 1000 random floats": {
+        "3.12.10, Windows 11, 2": {
+            "py_ver": "3.12.10",
+            "platform": "Windows 11",
+            "run": 2,
+            "hash": "9a1e749fc4b9ed8de0a35f7befac0a160e855a5f2d50052c8cd4a8e3dd7a63c6"
+        },
+        "3.12.10, Windows 11, 1": {
+            "py_ver": "3.12.10",
+            "platform": "Windows 11",
+            "run": 1,
+            "hash": "9a1e749fc4b9ed8de0a35f7befac0a160e855a5f2d50052c8cd4a8e3dd7a63c6"
+        },
+        "3.12.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.12.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "9a1e749fc4b9ed8de0a35f7befac0a160e855a5f2d50052c8cd4a8e3dd7a63c6"
+        },
+        "3.12.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.12.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "9a1e749fc4b9ed8de0a35f7befac0a160e855a5f2d50052c8cd4a8e3dd7a63c6"
+        },
+        "3.8.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.8.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "9a1e749fc4b9ed8de0a35f7befac0a160e855a5f2d50052c8cd4a8e3dd7a63c6"
+        },
+        "3.8.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.8.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "9a1e749fc4b9ed8de0a35f7befac0a160e855a5f2d50052c8cd4a8e3dd7a63c6"
+        },
+        "3.10.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.10.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "9a1e749fc4b9ed8de0a35f7befac0a160e855a5f2d50052c8cd4a8e3dd7a63c6"
+        },
+        "3.10.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.10.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "9a1e749fc4b9ed8de0a35f7befac0a160e855a5f2d50052c8cd4a8e3dd7a63c6"
+        }
+    },
+    "List of special floats": {
+        "3.12.10, Windows 11, 2": {
+            "py_ver": "3.12.10",
+            "platform": "Windows 11",
+            "run": 2,
+            "hash": "3f7f49f85071144fc579aaf8a5045f64f6fbf825206abec200b4f06b626209b6"
+        },
+        "3.12.10, Windows 11, 1": {
+            "py_ver": "3.12.10",
+            "platform": "Windows 11",
+            "run": 1,
+            "hash": "3f7f49f85071144fc579aaf8a5045f64f6fbf825206abec200b4f06b626209b6"
+        },
+        "3.12.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.12.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "3f7f49f85071144fc579aaf8a5045f64f6fbf825206abec200b4f06b626209b6"
+        },
+        "3.12.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.12.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "3f7f49f85071144fc579aaf8a5045f64f6fbf825206abec200b4f06b626209b6"
+        },
+        "3.8.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.8.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "3f7f49f85071144fc579aaf8a5045f64f6fbf825206abec200b4f06b626209b6"
+        },
+        "3.8.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.8.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "3f7f49f85071144fc579aaf8a5045f64f6fbf825206abec200b4f06b626209b6"
+        },
+        "3.10.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.10.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "3f7f49f85071144fc579aaf8a5045f64f6fbf825206abec200b4f06b626209b6"
+        },
+        "3.10.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.10.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "3f7f49f85071144fc579aaf8a5045f64f6fbf825206abec200b4f06b626209b6"
+        }
+    },
+    "Nested structure with floats": {
+        "3.12.10, Windows 11, 2": {
+            "py_ver": "3.12.10",
+            "platform": "Windows 11",
+            "run": 2,
+            "hash": "74206401b99372e4222b72a80ee1a588eab42dbdbdc69b8a6f0888d66fe9fab4"
+        },
+        "3.12.10, Windows 11, 1": {
+            "py_ver": "3.12.10",
+            "platform": "Windows 11",
+            "run": 1,
+            "hash": "74206401b99372e4222b72a80ee1a588eab42dbdbdc69b8a6f0888d66fe9fab4"
+        },
+        "3.12.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.12.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "74206401b99372e4222b72a80ee1a588eab42dbdbdc69b8a6f0888d66fe9fab4"
+        },
+        "3.12.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.12.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "74206401b99372e4222b72a80ee1a588eab42dbdbdc69b8a6f0888d66fe9fab4"
+        },
+        "3.8.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.8.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "74206401b99372e4222b72a80ee1a588eab42dbdbdc69b8a6f0888d66fe9fab4"
+        },
+        "3.8.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.8.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "74206401b99372e4222b72a80ee1a588eab42dbdbdc69b8a6f0888d66fe9fab4"
+        },
+        "3.10.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.10.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "74206401b99372e4222b72a80ee1a588eab42dbdbdc69b8a6f0888d66fe9fab4"
+        },
+        "3.10.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.10.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "74206401b99372e4222b72a80ee1a588eab42dbdbdc69b8a6f0888d66fe9fab4"
+        }
+    },
+    "Tuple of floats": {
+        "3.12.10, Windows 11, 2": {
+            "py_ver": "3.12.10",
+            "platform": "Windows 11",
+            "run": 2,
+            "hash": "872a71c070cd4d870282bde39c54175617d5041a0dd1af394fe8efa2ca0845ca"
+        },
+        "3.12.10, Windows 11, 1": {
+            "py_ver": "3.12.10",
+            "platform": "Windows 11",
+            "run": 1,
+            "hash": "872a71c070cd4d870282bde39c54175617d5041a0dd1af394fe8efa2ca0845ca"
+        },
+        "3.12.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.12.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "872a71c070cd4d870282bde39c54175617d5041a0dd1af394fe8efa2ca0845ca"
+        },
+        "3.12.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.12.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "872a71c070cd4d870282bde39c54175617d5041a0dd1af394fe8efa2ca0845ca"
+        },
+        "3.8.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.8.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "872a71c070cd4d870282bde39c54175617d5041a0dd1af394fe8efa2ca0845ca"
+        },
+        "3.8.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.8.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "872a71c070cd4d870282bde39c54175617d5041a0dd1af394fe8efa2ca0845ca"
+        },
+        "3.10.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.10.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "872a71c070cd4d870282bde39c54175617d5041a0dd1af394fe8efa2ca0845ca"
+        },
+        "3.10.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.10.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "872a71c070cd4d870282bde39c54175617d5041a0dd1af394fe8efa2ca0845ca"
+        }
+    },
+    "Set of floats": {
+        "3.12.10, Windows 11, 2": {
+            "py_ver": "3.12.10",
+            "platform": "Windows 11",
+            "run": 2,
+            "hash": "1a805b43c70af55290d799027cf5f65b369fc53e68bb65ff89b02baba4ff4140"
+        },
+        "3.12.10, Windows 11, 1": {
+            "py_ver": "3.12.10",
+            "platform": "Windows 11",
+            "run": 1,
+            "hash": "1a805b43c70af55290d799027cf5f65b369fc53e68bb65ff89b02baba4ff4140"
+        },
+        "3.12.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.12.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "1a805b43c70af55290d799027cf5f65b369fc53e68bb65ff89b02baba4ff4140"
+        },
+        "3.12.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.12.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "1a805b43c70af55290d799027cf5f65b369fc53e68bb65ff89b02baba4ff4140"
+        },
+        "3.8.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.8.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "1a805b43c70af55290d799027cf5f65b369fc53e68bb65ff89b02baba4ff4140"
+        },
+        "3.8.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.8.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "1a805b43c70af55290d799027cf5f65b369fc53e68bb65ff89b02baba4ff4140"
+        },
+        "3.10.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.10.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "1a805b43c70af55290d799027cf5f65b369fc53e68bb65ff89b02baba4ff4140"
+        },
+        "3.10.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.10.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "1a805b43c70af55290d799027cf5f65b369fc53e68bb65ff89b02baba4ff4140"
+        }
+    },
+    "Decimal converted to float": {
+        "3.12.10, Windows 11, 2": {
+            "py_ver": "3.12.10",
+            "platform": "Windows 11",
+            "run": 2,
+            "hash": "9b58dbca52e462bc293b8640b505aad8df4fd19e2969a4524a16bb95a49c3067"
+        },
+        "3.12.10, Windows 11, 1": {
+            "py_ver": "3.12.10",
+            "platform": "Windows 11",
+            "run": 1,
+            "hash": "9b58dbca52e462bc293b8640b505aad8df4fd19e2969a4524a16bb95a49c3067"
+        },
+        "3.12.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.12.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "9b58dbca52e462bc293b8640b505aad8df4fd19e2969a4524a16bb95a49c3067"
+        },
+        "3.12.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.12.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "9b58dbca52e462bc293b8640b505aad8df4fd19e2969a4524a16bb95a49c3067"
+        },
+        "3.8.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.8.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "9b58dbca52e462bc293b8640b505aad8df4fd19e2969a4524a16bb95a49c3067"
+        },
+        "3.8.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.8.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "9b58dbca52e462bc293b8640b505aad8df4fd19e2969a4524a16bb95a49c3067"
+        },
+        "3.10.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.10.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "9b58dbca52e462bc293b8640b505aad8df4fd19e2969a4524a16bb95a49c3067"
+        },
+        "3.10.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.10.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "9b58dbca52e462bc293b8640b505aad8df4fd19e2969a4524a16bb95a49c3067"
+        }
+    },
+    "10x10 matrix of floats": {
+        "3.12.10, Windows 11, 2": {
+            "py_ver": "3.12.10",
+            "platform": "Windows 11",
+            "run": 2,
+            "hash": "2e36cf42b7603f9859c5084c0867b5023bed7143a8ca63283d83af632a939b21"
+        },
+        "3.12.10, Windows 11, 1": {
+            "py_ver": "3.12.10",
+            "platform": "Windows 11",
+            "run": 1,
+            "hash": "2e36cf42b7603f9859c5084c0867b5023bed7143a8ca63283d83af632a939b21"
+        },
+        "3.12.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.12.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "2e36cf42b7603f9859c5084c0867b5023bed7143a8ca63283d83af632a939b21"
+        },
+        "3.12.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.12.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "2e36cf42b7603f9859c5084c0867b5023bed7143a8ca63283d83af632a939b21"
+        },
+        "3.8.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.8.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "2e36cf42b7603f9859c5084c0867b5023bed7143a8ca63283d83af632a939b21"
+        },
+        "3.8.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.8.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "2e36cf42b7603f9859c5084c0867b5023bed7143a8ca63283d83af632a939b21"
+        },
+        "3.10.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.10.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "2e36cf42b7603f9859c5084c0867b5023bed7143a8ca63283d83af632a939b21"
+        },
+        "3.10.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.10.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "2e36cf42b7603f9859c5084c0867b5023bed7143a8ca63283d83af632a939b21"
+        }
+    },
+    "Dict with floats as keys and values": {
+        "3.12.10, Windows 11, 2": {
+            "py_ver": "3.12.10",
+            "platform": "Windows 11",
+            "run": 2,
+            "hash": "c74714970c3872473ab2bc2a001a62fadf81be36cf708244d7fbf10c012d49db"
+        },
+        "3.12.10, Windows 11, 1": {
+            "py_ver": "3.12.10",
+            "platform": "Windows 11",
+            "run": 1,
+            "hash": "c74714970c3872473ab2bc2a001a62fadf81be36cf708244d7fbf10c012d49db"
+        },
+        "3.12.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.12.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "c74714970c3872473ab2bc2a001a62fadf81be36cf708244d7fbf10c012d49db"
+        },
+        "3.12.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.12.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "c74714970c3872473ab2bc2a001a62fadf81be36cf708244d7fbf10c012d49db"
+        },
+        "3.8.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.8.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "c74714970c3872473ab2bc2a001a62fadf81be36cf708244d7fbf10c012d49db"
+        },
+        "3.8.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.8.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "c74714970c3872473ab2bc2a001a62fadf81be36cf708244d7fbf10c012d49db"
+        },
+        "3.10.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.10.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "c74714970c3872473ab2bc2a001a62fadf81be36cf708244d7fbf10c012d49db"
+        },
+        "3.10.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.10.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "c74714970c3872473ab2bc2a001a62fadf81be36cf708244d7fbf10c012d49db"
+        }
+    },
+    "Custom class with data": {
+        "3.12.10, Windows 11, 2": {
+            "py_ver": "3.12.10",
+            "platform": "Windows 11",
+            "run": 2,
+            "hash": "cf7f866327f370f07562e53c4212b1bd790dbb3155d9cdff1158c31c16bae9ec"
+        },
+        "3.12.10, Windows 11, 1": {
+            "py_ver": "3.12.10",
+            "platform": "Windows 11",
+            "run": 1,
+            "hash": "cf7f866327f370f07562e53c4212b1bd790dbb3155d9cdff1158c31c16bae9ec"
+        },
+        "3.12.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.12.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "cf7f866327f370f07562e53c4212b1bd790dbb3155d9cdff1158c31c16bae9ec"
+        },
+        "3.12.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.12.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "cf7f866327f370f07562e53c4212b1bd790dbb3155d9cdff1158c31c16bae9ec"
+        },
+        "3.8.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.8.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "cf7f866327f370f07562e53c4212b1bd790dbb3155d9cdff1158c31c16bae9ec"
+        },
+        "3.8.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.8.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "cf7f866327f370f07562e53c4212b1bd790dbb3155d9cdff1158c31c16bae9ec"
+        },
+        "3.10.10, Linux 6.6.87.1-microsoft-standard-WSL2, 1": {
+            "py_ver": "3.10.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 1,
+            "hash": "cf7f866327f370f07562e53c4212b1bd790dbb3155d9cdff1158c31c16bae9ec"
+        },
+        "3.10.10, Linux 6.6.87.1-microsoft-standard-WSL2, 2": {
+            "py_ver": "3.10.10",
+            "platform": "Linux 6.6.87.1-microsoft-standard-WSL2",
+            "run": 2,
+            "hash": "cf7f866327f370f07562e53c4212b1bd790dbb3155d9cdff1158c31c16bae9ec"
+        }
+    },
+    "Simple frozen set": {
+        "3.12.10, Windows 11, 1": {
+            "py_ver": "3.12.10",
+            "platform": "Windows 11",
+            "run": 1,
+            "hash": "4690ccddd3acf15bf776c51a9352be72aa516661dc75c41b7a7273eb2bcf9bd3"
+        },
+        "3.12.10, Windows 11, 2": {
+            "py_ver": "3.12.10",
+            "platform": "Windows 11",
+            "run": 2,
+            "hash": "4690ccddd3acf15bf776c51a9352be72aa516661dc75c41b7a7273eb2bcf9bd3"
+        }
+    },
+    "Type": {
+        "3.12.10, Windows 11, 1": {
+            "py_ver": "3.12.10",
+            "platform": "Windows 11",
+            "run": 1,
+            "hash": "4d3c63e57e42949749920be1760671c35cc33980d245bb896fabfc8594f1f554"
+        },
+        "3.12.10, Windows 11, 2": {
+            "py_ver": "3.12.10",
+            "platform": "Windows 11",
+            "run": 2,
+            "hash": "4d3c63e57e42949749920be1760671c35cc33980d245bb896fabfc8594f1f554"
+        }
+    }
+}

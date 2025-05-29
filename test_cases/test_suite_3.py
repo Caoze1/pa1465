@@ -72,4 +72,12 @@ def pickle(pickler):
         fib_like = [i, fib_like]
     pickle_results.append(("Nested list chain (Fibonacci-like)", pickler(fib_like)))
 
+    ### Test 9: Frozen set
+    fs = frozenset([1, 2, 3])
+    pickle_results.append(("Simple frozen set", pickler(fs)))
+
+    ### Test 10: Type
+    t = type(fs)
+    pickle_results.append(("Type", pickler(t)))
+
     return pickle_results
