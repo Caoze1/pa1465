@@ -1,1 +1,3 @@
 /test_cases/__pycache__
+.venv/pyvenv.cfg
+.venv/Scripts/pythonw.exe

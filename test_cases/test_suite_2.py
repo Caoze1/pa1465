@@ -1,3 +1,4 @@
+"""Test suite testing string representation"""
 import random
 
 def random_unicode_string(start, end, length):
@@ -9,6 +10,7 @@ def pickle(pickler):
 
     random.seed(123)
 
+    # Random unicode strings
     pickle_results.append(("Random ASCII", pickler(random_unicode_string(32, 126, 50))))
     pickle_results.append(("Random Latin-1", pickler(random_unicode_string(160, 255, 50))))
     pickle_results.append(("Random Hebrew", pickler(random_unicode_string(0x0590, 0x05FF, 50))))
