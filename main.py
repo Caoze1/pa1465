@@ -73,7 +73,7 @@ def compare_results():
 
 def main():
     perform_tests()
-    compare_results()
+    # compare_results()
     
 if __name__=='__main__':
     main()

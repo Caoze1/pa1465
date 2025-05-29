@@ -3,6 +3,8 @@
 import re
 import numpy as np
 import pandas as pd
+from datetime import datetime as dt
+from datetime import timezone, timedelta
 
 # Test case for pickling/unpickling Classes
 class Class: # Data hold
@@ -35,7 +37,9 @@ def pickle(pickler):
 
     ### Regex
     rem = re.match(r"(\d+)", "regex 232 match")
-    pickle_results.append(("Simple Queue", pickler(rem)))
+    re_email = re.compile(r'^[a-zA-Z0-9_.+-]+@[a-zA-Z0-9-]+\.[a-zA-Z0-9-.]+$')
+    pickle_results.append(("Regex compile", pickler(re_email)))
+    pickle_results.append(("Regex match", pickler(rem)))
 
     ### Numpy tests
     n1 = np.array([123,412,54,243,43])
@@ -47,6 +51,12 @@ def pickle(pickler):
     p1 = pd.DataFrame({'name':['Alpha','Beta','Gamma'],'value':[15,93,54]})
     pickle_results.append(("Pandas dataframe - 3 entries", pickler(p1)))
     
+    ### Datetime
+    dt1 = dt(2025, 5, 24, 12, 00)
+    dt_timezone = dt(2025, 1, 1, 23, 59, 59, tzinfo=timezone(timedelta(hours=7)))
+    pickle_results.append(("Date time", pickler(dt1)))
+    pickle_results.append(("Date time timezone", pickler(dt_timezone)))
+
     return pickle_results
 
     

@@ -113,44 +113,6 @@
             "hash": "d8ba1a9b16467eebca5402fd135e69075f4bc4e3c841edab6fd4457dfcedde12"
         }
     },
-    "Negative float": {
-        "3.6.0, Windows, 0": {
-            "py_ver": "3.6.0",
-            "platform": "Windows",
-            "run": 0,
-            "hash": "29233761bc6f1bb139e6cdc8ad8c07d64f81c7d97e3a83eca6890176b76d0628"
-        },
-        "3.6.0, Windows, 1": {
-            "py_ver": "3.6.0",
-            "platform": "Windows",
-            "run": 1,
-            "hash": "29233761bc6f1bb139e6cdc8ad8c07d64f81c7d97e3a83eca6890176b76d0628"
-        },
-        "3.8.10, Windows, 0": {
-            "py_ver": "3.8.10",
-            "platform": "Windows",
-            "run": 0,
-            "hash": "7c85fea1fdb9ba372893ba709896c7916d868c12f8321d7f09e11db2c81b0d3f"
-        },
-        "3.8.10, Windows, 1": {
-            "py_ver": "3.8.10",
-            "platform": "Windows",
-            "run": 1,
-            "hash": "7c85fea1fdb9ba372893ba709896c7916d868c12f8321d7f09e11db2c81b0d3f"
-        },
-        "3.12.10, Windows, 0": {
-            "py_ver": "3.12.10",
-            "platform": "Windows",
-            "run": 0,
-            "hash": "7c85fea1fdb9ba372893ba709896c7916d868c12f8321d7f09e11db2c81b0d3f"
-        },
-        "3.12.10, Windows, 1": {
-            "py_ver": "3.12.10",
-            "platform": "Windows",
-            "run": 1,
-            "hash": "7c85fea1fdb9ba372893ba709896c7916d868c12f8321d7f09e11db2c81b0d3f"
-        }
-    },
     "Tuple of mixed numbers": {
         "3.6.0, Windows, 0": {
             "py_ver": "3.6.0",
@@ -162,7 +124,7 @@
             "py_ver": "3.6.0",
             "platform": "Windows",
             "run": 1,
-            "hash": "a4a7df5c2cd55fa07222d44282e6cd837fc230c61fffeb15ee2340bf1b7f05c4"
+            "hash": "a062192a2c6378378725037d535cc091fc7f1d8aced933cfb5020631aad914d3"
         },
         "3.8.10, Windows, 0": {
             "py_ver": "3.8.10",
@@ -174,7 +136,7 @@
             "py_ver": "3.8.10",
             "platform": "Windows",
             "run": 1,
-            "hash": "d1acbffd1f64f53a19c32471021a899d06e5a4b7b329e48fc1c64b42d206bcf7"
+            "hash": "1215103ee239249b7985754351368efa0e980214487ca4c60664cd709b4447f5"
         },
         "3.12.10, Windows, 0": {
             "py_ver": "3.12.10",
@@ -186,7 +148,7 @@
             "py_ver": "3.12.10",
             "platform": "Windows",
             "run": 1,
-            "hash": "c3732378de4d23b7bdd98c79e392aeccfe82e15de3b09b97a06969beba59db4c"
+            "hash": "f71bed535fec49876e803df3f2c6332da604cd43121f979ad4b1dcd3987fb711"
         }
     },
     "Fraction (353/113)": {
@@ -580,7 +542,7 @@
             "py_ver": "3.6.0",
             "platform": "Windows",
             "run": 1,
-            "hash": "5066376831ce4e52b521c13c29dbe05891b331c6fd2fc38b47f2219075f86a10"
+            "hash": "4b3cd0b32828098076acc6abfa6ec7f9ac937695559d3bc5d1e3ff554c11d34c"
         },
         "3.8.10, Windows, 0": {
             "py_ver": "3.8.10",
@@ -592,7 +554,7 @@
             "py_ver": "3.8.10",
             "platform": "Windows",
             "run": 1,
-            "hash": "f8b8a797354562c19f97429bbfd629738890e6cfccc32a11d8af87358b90dc62"
+            "hash": "422572a9f46696367bfcf860672e449026abf77196525e146a4e500e8e2bb8c8"
         },
         "3.12.10, Windows, 0": {
             "py_ver": "3.12.10",
@@ -604,7 +566,7 @@
             "py_ver": "3.12.10",
             "platform": "Windows",
             "run": 1,
-            "hash": "f8b8a797354562c19f97429bbfd629738890e6cfccc32a11d8af87358b90dc62"
+            "hash": "422572a9f46696367bfcf860672e449026abf77196525e146a4e500e8e2bb8c8"
         }
     },
     "List of special floats": {
@@ -1378,7 +1340,7 @@
             "py_ver": "3.6.0",
             "platform": "Windows",
             "run": 1,
-            "hash": "d7fdb211683b43a14f48d715ebb8e5aa4e4642c2a2222bb37279e121c8ced871"
+            "hash": "0ba3b1acc2b56a20bc51a8b8d13879ef6e17ddb86edc5abc268c3f44c78f26f6"
         },
         "3.8.10, Windows, 0": {
             "py_ver": "3.8.10",
@@ -1390,7 +1352,7 @@
             "py_ver": "3.8.10",
             "platform": "Windows",
             "run": 1,
-            "hash": "b804b6b09270ae3d5fbb5d0a91ea8bfa58b6990e4d7411ce000cd3c41f7ad580"
+            "hash": "171493f709abba3b79d5df5b4b5a6f9f57dcaf3e96a781621f6f83792de67383"
         },
         "3.12.10, Windows, 0": {
             "py_ver": "3.12.10",
@@ -1606,7 +1568,7 @@
             "py_ver": "3.6.0",
             "platform": "Windows",
             "run": 1,
-            "hash": "c53ac9e53265c31d5175c8862106c86c3eead5cca28f8ccadae4010bf8cc9f66"
+            "hash": "7a885f26c445062073dc234a49d4e74cfa3485dc89f31385f841fa3e758609b2"
         },
         "3.8.10, Windows, 0": {
             "py_ver": "3.8.10",
@@ -1618,7 +1580,7 @@
             "py_ver": "3.8.10",
             "platform": "Windows",
             "run": 1,
-            "hash": "669fe1b9a6142765614f20ebf33df1a5d583f0732d921f7a02fc95af92d640ed"
+            "hash": "93a1b819b05c63cd46c9174d864478a25fb29d0c70420726cda04f4f071bea0b"
         },
         "3.12.10, Windows, 0": {
             "py_ver": "3.12.10",
@@ -1630,7 +1592,7 @@
             "py_ver": "3.12.10",
             "platform": "Windows",
             "run": 1,
-            "hash": "0bd00cfbfe879056b9844ffc01af81090787a3ca0df4a964a2fb8091eb5c9559"
+            "hash": "45c3de597cbd51ce9fd20d1edcbac98c348fb6c7422d26681fb9445f61130efa"
         }
     },
     "Type": {
@@ -2089,44 +2051,6 @@
             "hash": "33908fcd5b11005e717224df4ee12c7d5af8994138c916561843f2e3e45d8414"
         }
     },
-    "Simple Queue": {
-        "3.6.0, Windows, 0": {
-            "py_ver": "3.6.0",
-            "platform": "Windows",
-            "run": 0,
-            "hash": "4f3fc348a818941a464e415fff6b9d416c1ddc3b1c64743861d328fbc345bcd6"
-        },
-        "3.6.0, Windows, 1": {
-            "py_ver": "3.6.0",
-            "platform": "Windows",
-            "run": 1,
-            "hash": "4f3fc348a818941a464e415fff6b9d416c1ddc3b1c64743861d328fbc345bcd6"
-        },
-        "3.8.10, Windows, 0": {
-            "py_ver": "3.8.10",
-            "platform": "Windows",
-            "run": 0,
-            "hash": "9c298d589a2158eb513cb52191144518a2acab2cb0c04f1df14fca0f712fa4a1"
-        },
-        "3.8.10, Windows, 1": {
-            "py_ver": "3.8.10",
-            "platform": "Windows",
-            "run": 1,
-            "hash": "9c298d589a2158eb513cb52191144518a2acab2cb0c04f1df14fca0f712fa4a1"
-        },
-        "3.12.10, Windows, 0": {
-            "py_ver": "3.12.10",
-            "platform": "Windows",
-            "run": 0,
-            "hash": "9c298d589a2158eb513cb52191144518a2acab2cb0c04f1df14fca0f712fa4a1"
-        },
-        "3.12.10, Windows, 1": {
-            "py_ver": "3.12.10",
-            "platform": "Windows",
-            "run": 1,
-            "hash": "9c298d589a2158eb513cb52191144518a2acab2cb0c04f1df14fca0f712fa4a1"
-        }
-    },
     "Numpy 1D-array": {
         "3.6.0, Windows, 0": {
             "py_ver": "3.6.0",
@@ -2239,6 +2163,158 @@
             "platform": "Windows",
             "run": 1,
             "hash": "1c34fdc61e2be34210134a7a440fc0b7dea0c9fc6f53668f26e6ec948a9b2d5d"
+        }
+    },
+    "Regex compile": {
+        "3.12.10, Windows, 0": {
+            "py_ver": "3.12.10",
+            "platform": "Windows",
+            "run": 0,
+            "hash": "09c10521ef8910f684e5141f4d254e6ea39f94e993eb7c90cce36fb00552e846"
+        },
+        "3.12.10, Windows, 1": {
+            "py_ver": "3.12.10",
+            "platform": "Windows",
+            "run": 1,
+            "hash": "09c10521ef8910f684e5141f4d254e6ea39f94e993eb7c90cce36fb00552e846"
+        },
+        "3.8.10, Windows, 0": {
+            "py_ver": "3.8.10",
+            "platform": "Windows",
+            "run": 0,
+            "hash": "09c10521ef8910f684e5141f4d254e6ea39f94e993eb7c90cce36fb00552e846"
+        },
+        "3.8.10, Windows, 1": {
+            "py_ver": "3.8.10",
+            "platform": "Windows",
+            "run": 1,
+            "hash": "09c10521ef8910f684e5141f4d254e6ea39f94e993eb7c90cce36fb00552e846"
+        },
+        "3.6.0, Windows, 0": {
+            "py_ver": "3.6.0",
+            "platform": "Windows",
+            "run": 0,
+            "hash": "4d360166c5c0a1a4145d7d77a24bd31d10d56e1eea020cfee2531b58f411d646"
+        },
+        "3.6.0, Windows, 1": {
+            "py_ver": "3.6.0",
+            "platform": "Windows",
+            "run": 1,
+            "hash": "4d360166c5c0a1a4145d7d77a24bd31d10d56e1eea020cfee2531b58f411d646"
+        }
+    },
+    "Regex match": {
+        "3.12.10, Windows, 0": {
+            "py_ver": "3.12.10",
+            "platform": "Windows",
+            "run": 0,
+            "hash": "9c298d589a2158eb513cb52191144518a2acab2cb0c04f1df14fca0f712fa4a1"
+        },
+        "3.12.10, Windows, 1": {
+            "py_ver": "3.12.10",
+            "platform": "Windows",
+            "run": 1,
+            "hash": "9c298d589a2158eb513cb52191144518a2acab2cb0c04f1df14fca0f712fa4a1"
+        },
+        "3.8.10, Windows, 0": {
+            "py_ver": "3.8.10",
+            "platform": "Windows",
+            "run": 0,
+            "hash": "9c298d589a2158eb513cb52191144518a2acab2cb0c04f1df14fca0f712fa4a1"
+        },
+        "3.8.10, Windows, 1": {
+            "py_ver": "3.8.10",
+            "platform": "Windows",
+            "run": 1,
+            "hash": "9c298d589a2158eb513cb52191144518a2acab2cb0c04f1df14fca0f712fa4a1"
+        },
+        "3.6.0, Windows, 0": {
+            "py_ver": "3.6.0",
+            "platform": "Windows",
+            "run": 0,
+            "hash": "4f3fc348a818941a464e415fff6b9d416c1ddc3b1c64743861d328fbc345bcd6"
+        },
+        "3.6.0, Windows, 1": {
+            "py_ver": "3.6.0",
+            "platform": "Windows",
+            "run": 1,
+            "hash": "4f3fc348a818941a464e415fff6b9d416c1ddc3b1c64743861d328fbc345bcd6"
+        }
+    },
+    "Date time": {
+        "3.6.0, Windows, 0": {
+            "py_ver": "3.6.0",
+            "platform": "Windows",
+            "run": 0,
+            "hash": "e424a1e1808f6797dd59c6034889c58f52a53ea1eac525a51ceb1af93b183bfb"
+        },
+        "3.6.0, Windows, 1": {
+            "py_ver": "3.6.0",
+            "platform": "Windows",
+            "run": 1,
+            "hash": "e424a1e1808f6797dd59c6034889c58f52a53ea1eac525a51ceb1af93b183bfb"
+        },
+        "3.8.10, Windows, 0": {
+            "py_ver": "3.8.10",
+            "platform": "Windows",
+            "run": 0,
+            "hash": "0ebd68d14d9d6a0681308efe9c18a7b04716daf6fb6e57b5545f9b0da5785e48"
+        },
+        "3.8.10, Windows, 1": {
+            "py_ver": "3.8.10",
+            "platform": "Windows",
+            "run": 1,
+            "hash": "0ebd68d14d9d6a0681308efe9c18a7b04716daf6fb6e57b5545f9b0da5785e48"
+        },
+        "3.12.10, Windows, 0": {
+            "py_ver": "3.12.10",
+            "platform": "Windows",
+            "run": 0,
+            "hash": "0ebd68d14d9d6a0681308efe9c18a7b04716daf6fb6e57b5545f9b0da5785e48"
+        },
+        "3.12.10, Windows, 1": {
+            "py_ver": "3.12.10",
+            "platform": "Windows",
+            "run": 1,
+            "hash": "0ebd68d14d9d6a0681308efe9c18a7b04716daf6fb6e57b5545f9b0da5785e48"
+        }
+    },
+    "Date time timezone": {
+        "3.12.10, Windows, 0": {
+            "py_ver": "3.12.10",
+            "platform": "Windows",
+            "run": 0,
+            "hash": "034f76c835acbf4f620253da01f615e49a865781d1b68f7e553844350907d25d"
+        },
+        "3.12.10, Windows, 1": {
+            "py_ver": "3.12.10",
+            "platform": "Windows",
+            "run": 1,
+            "hash": "034f76c835acbf4f620253da01f615e49a865781d1b68f7e553844350907d25d"
+        },
+        "3.8.10, Windows, 0": {
+            "py_ver": "3.8.10",
+            "platform": "Windows",
+            "run": 0,
+            "hash": "034f76c835acbf4f620253da01f615e49a865781d1b68f7e553844350907d25d"
+        },
+        "3.8.10, Windows, 1": {
+            "py_ver": "3.8.10",
+            "platform": "Windows",
+            "run": 1,
+            "hash": "034f76c835acbf4f620253da01f615e49a865781d1b68f7e553844350907d25d"
+        },
+        "3.6.0, Windows, 0": {
+            "py_ver": "3.6.0",
+            "platform": "Windows",
+            "run": 0,
+            "hash": "bc1133af074367c04513b29ce90d2a8a4c7b67f78e7b0779461b2ca49cf65bd7"
+        },
+        "3.6.0, Windows, 1": {
+            "py_ver": "3.6.0",
+            "platform": "Windows",
+            "run": 1,
+            "hash": "bc1133af074367c04513b29ce90d2a8a4c7b67f78e7b0779461b2ca49cf65bd7"
         }
     }
 }
