@@ -1,6 +1,7 @@
 /test_cases/__pycache__
 .venv/pyvenv.cfg
 .venv/Scripts/pythonw.exe
+venv*/
 ltx4.txt
 ltx3.txt
 ltx2.txt
