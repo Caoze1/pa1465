@@ -5,7 +5,7 @@ import sys, platform
 import json
 
 ### TEST RESULT: (ID, DESCRIPTION, SHA-256 HASH, PYTHON_VERSION, OS_INFO)
-### Python versions: 3.8.10, 3.10.10, 3.12.10
+### Python versions: 3.8, 3.10, 3.12
 def pickler(obj):
     """Creates a pickler dumps and return the sha-256 hash result"""
     pickled = pickle.dumps(obj, protocol=4)
