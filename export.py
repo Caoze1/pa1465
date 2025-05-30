@@ -13,13 +13,8 @@ def extract_results(tname, test_dict, pyver, os, test_hashes):
         if pyver in entry['py_ver'] and os in entry['platform']:
             rlist.append(entry)
 
-    if len(rlist) == 0:
-        print(f"No entry for test: {tname}, py: {pyver}, os: {os}")
-        test_hashes.append("-")
-        test_hashes.append("-")
-        return
-    if len(rlist) != 2:
-        print(f"Wrong entry for test: {tname}, py: {pyver}, os: {os}")
+    if len(rlist) < 0:
+        print(f"Not enough entry for test: {tname}, py: {pyver}, os: {os}")
         test_hashes.append("-")
         test_hashes.append("-")
         return
