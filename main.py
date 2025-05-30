@@ -8,7 +8,7 @@ import json
 ### Python versions: 3.8.10, 3.10.10, 3.12.10
 def pickler(obj):
     """Creates a pickler dumps and return the sha-256 hash result"""
-    pickled = pickle.dumps(obj)
+    pickled = pickle.dumps(obj, protocol=4)
     return sha256(pickled).hexdigest()
 
 def env_info():
@@ -26,15 +26,20 @@ def perform_tests():
     test_results.extend(test_suite_4.pickle(pickler))
 
     ### Load JSON result file
-    with open('test_results.json', 'r') as open_file:
-        results = json.load(open_file)
+    results = {}
+    try:
+        with open('test_results.json', 'r') as open_file:
+            results = json.load(open_file)
+    except:
+        pass
 
     ### Store new results
     test_names = set()
-    for test_name, test_hash in test_results:
+    for test_name, test_hash, test_suite in test_results:
         test_names.add(test_name)
         if test_name not in results:
             results[test_name] = {}
+            results[test_name]["info"] = {"test_suite":test_suite}
         key_0 = f"{env_inf[0]}, {env_inf[1]}, {0}"
         key = f"{env_inf[0]}, {env_inf[1]}, {1}"
 
@@ -62,6 +67,8 @@ def compare_results():
 
         base_hash = None
         for key, tres in tdict.items():
+            if key == "info":
+                continue
             hs = tres["hash"]
             if base_hash is None:
                 base_hash = hs
@@ -73,7 +80,7 @@ def compare_results():
 
 def main():
     perform_tests()
-    # compare_results()
+    compare_results()
     
 if __name__=='__main__':
     main()

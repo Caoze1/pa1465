@@ -311,5 +311,5 @@ def pickle(pickler):
     pickle_results.append(("A cyclic set of nodes", pickler(root)))
 
 
-    return pickle_results
+    return [t + (3,) for t in pickle_results]
 

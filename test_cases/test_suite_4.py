@@ -57,6 +57,6 @@ def pickle(pickler):
     pickle_results.append(("Date time", pickler(dt1)))
     pickle_results.append(("Date time timezone", pickler(dt_timezone)))
 
-    return pickle_results
+    return [t + (4,) for t in pickle_results]
 
     

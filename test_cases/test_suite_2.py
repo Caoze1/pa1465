@@ -20,4 +20,4 @@ def pickle(pickler):
     pickle_results.append(("Random Emoji", pickler(random_unicode_string(0x1F300, 0x1FAFF, 30))))
 
     ### Return results
-    return pickle_results
+    return [t + (2,) for t in pickle_results]

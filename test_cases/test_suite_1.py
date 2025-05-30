@@ -89,4 +89,4 @@ def pickle(pickler):
     pickle_results.append(("Dict with floats as keys and values", pickler(float_dict)))
 
     ### Return results
-    return pickle_results
+    return [t + (1,) for t in pickle_results]
